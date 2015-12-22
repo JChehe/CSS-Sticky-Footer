@@ -1,4 +1,4 @@
-# 让footer固定在页面底部（CSS-Sticky-Footer ）
+# 让footer固定在页面（视口）底部（CSS-Sticky-Footer ）
 
 标签： html、css
 
